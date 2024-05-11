@@ -1,5 +1,2 @@
-/node_modeles
-node_modeles
-
 .env
-/.env
+node_modules
